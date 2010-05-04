@@ -12,7 +12,7 @@ TO_REPEAT = 1
 
 # Other vars
 USER_AGENT = 'OMG LOLZ'
-URL_AUTOMEME = 'C:\Users\Evan VanTine\Documents\Jews.txt'
+URL_AUTOMEME = 'automeme.net/moar.txt'
 URL_MEMEGENERATOR = 'http://memegenerator.net/ImageMacro/Create'
 
 
